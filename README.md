@@ -8,7 +8,6 @@ A web application developed for a fictional gardening company utilizing HTML, CS
 4) Preview index.html
 5) Look around site! 
 
-## Preview
+## Preview: small snipit of the website
 <img src="picture.PNG" width="1903px" height="955px">
-Small snipit of the website
 
