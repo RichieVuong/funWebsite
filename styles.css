@@ -1,0 +1,257 @@
+@font-face {
+    font-family: 'Protest Riot';
+    src: url('path/to/font-file.woff2') format('woff2'),  /* Modern Browsers */  
+}
+
+
+
+body{
+    background-color: #add8e6;
+}
+
+header > img{
+    width: 150px; /* Adjust the width to your desired size */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.flexbox-container{
+    display: flex;
+    height: 80vh;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-left: 8%;
+    margin-right: 8%;
+    /* align-items: flex-start;
+    align-items: stretch; */
+    flex-shrink: 0;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+.flexbox-promo{
+    display: flex;
+    background-image: url(betterYard.png.jpg);
+    border-radius: 20px;
+    flex-wrap: wrap;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom:  25px;
+}
+
+.flexbox-promo p{
+    color: white;
+    font-size: 30px;
+}
+
+.flexbox-promo h1{
+    font-family: Indie Flower;
+    font-size: 3rem;
+    color: white;
+}
+
+.flexbox-promo #visit{
+    text-align: center;
+}
+
+
+h2{
+    font-size: 2rem
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    
+}
+
+nav {
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 8%;
+    margin-right: 8%;
+    background-color: white;
+    font-family: Fantasy;
+    margin-top:  25px;
+    margin-bottom:  25px;
+    border-radius: 20px;
+}
+.nav-item{
+    display: inline-block;
+    color: #8ddb94;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-right: 20px;
+}
+
+nav ul li {
+  color: white; /* Set the text color of the list items to white */
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.flexbox-item p {
+    font-family: Georgia;
+}
+
+
+footer div img{
+    width: auto;
+    height: 100px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer div{
+    flex: 1;
+    margin-left: 8%;
+    margin-right: 8%;
+
+}
+
+
+footer #copyright{
+    text-align: right;
+}
+
+footer{
+    border-top: 2px solid black;
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.flexbox-item{
+    flex: 1;
+    background-color: white;
+
+}
+
+.flexbox-item1{
+    max-height: 700px;
+    border-radius: 20px;
+    margin-left: 8%;
+}
+
+.flexbox-item2{
+    max-height: 700px;
+    border-radius: 20px;
+}
+
+.flexbox-item3{
+    max-height: 700px;
+    border-radius: 20px;
+    margin-right: 8%;
+}
+
+.flexbox-item1 p {
+    max-width: 90%;
+}
+
+.flexbox-item2 p {
+    max-width: 90%;
+}
+
+.flexbox-item3 p {
+    max-width: 90%;
+    padding-bottom: 8%;
+}
+
+.flexbox-item1 section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center items vertically */
+    align-items: center; /* Center items horizontally */
+
+}
+
+.flexbox-item2 section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center items vertically */
+    align-items: center; /* Center items horizontally */
+
+}
+
+
+.flexbox-item3 section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center items vertically */
+    align-items: center; /* Center items horizontally */
+
+}
+
+#oasis{
+
+    max-width: 90%;
+    height: auto;
+    margin: 0 auto;
+}
+
+
+#garden{
+    max-width: 90%;
+    height: auto;
+    margin: 0 auto;
+}
+
+#open{
+
+    max-width: 90%;
+    height: auto;
+    /* text-align: center; */
+    margin: 0 auto;
+
+}
+
+.flexbox-item3 section{
+    text-align: center;
+}
+
+
+h2{
+    font-family: Fantasy;
+}
+main #aboutUs{
+    margin-left: 8%;
+    margin-right: 8%;
+    font-family: 'Lobster', cursive;
+    font-size: 15px;
+    
+}
+
+main form{
+    
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 10px;
+
+    background-color: #f2f2f2;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+#question{
+    color: aqua;
+    margin-bottom: 10px;
+}
+
+#reachOut{
+    margin-left: 8%;
+    margin-right: 8%;
+    font-family: 'Lobster', cursive;
+    font-size: 15px;
+}
