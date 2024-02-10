@@ -1,7 +1,5 @@
 # Website for Lucky Shrub
-A website application built using html, css, and javascript
-
-Storyboard interface in Swift. Instead of the typical 9x9 Sudoku board, this is a arcadey variant where the games are short by utilizing a 4x4 board.
+A web application developed for a fictional gardening company utilizing HTML, CSS, and JavaScript. This digital platform aims to enhance brand visibility and drive revenue growth by fostering improved market outreach and sales expansion.
 
 ## How to Open
 1) git clone https://github.com/RichieVuong/funWebsite.git
