@@ -1,4 +1,4 @@
-# website for Lucky Shrub
+# Website for Lucky Shrub
 A website application built using html, css, and javascript
 
 Storyboard interface in Swift. Instead of the typical 9x9 Sudoku board, this is a arcadey variant where the games are short by utilizing a 4x4 board.
@@ -11,6 +11,6 @@ Storyboard interface in Swift. Instead of the typical 9x9 Sudoku board, this is 
 5) Look around site! 
 
 ## Preview
-<img src="picture.PNG" width="100px" height="200px">
+<img src="picture.PNG" width="1903px" height="955px">
 Small snipit of the website
 
